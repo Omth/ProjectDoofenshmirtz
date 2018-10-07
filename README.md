@@ -17,3 +17,5 @@ try:
         print check(n)
 except:
     pass
+//This can serve as a good first program in dynamic programming
+
